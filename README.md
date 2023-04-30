@@ -20,7 +20,7 @@ I'm queer and neurodivergent! I often change the focus of my interests so there'
 - Databases
 
 ### Work
-I'm currently employed and working for Nokia. I'm scripting things ✍
+I'm currently employed and working for Nokia as a DevOps Linux scripting engineer. I use Bash and Python 🐍
 
 ### Contributions
 I'm open for collaboration and contribution on FOSS projects! 🌱 Please reach out to me for help with your projects. I'd be very happy to help! 💖
