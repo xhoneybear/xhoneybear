@@ -9,7 +9,7 @@ I'm queer and neurodivergent! 🌈
 
 ## What I work with:
 
-### Languages
+### Languages & tools
 <table>
   <thead>
     <tr>
