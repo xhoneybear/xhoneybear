@@ -8,28 +8,52 @@ My career focus goes towards medical and scientific IT applications, but I also 
 I'm queer and neurodivergent! 🌈
 
 ## What I work with:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 1em;" /> HTML
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 1em;" /> CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 1em;" /> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 1em;" /> Kotlin
 
-## What I want to try:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 1em;" /> Rust
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="width: 1em;" /> R
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="width: 1em;" /> Compose
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 1em;" /> Haskell
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 1em;" /> TypeScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="width: 1em;" /> Vue.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width: 1em;" /> Databases
+### Languages
+<table>
+  <thead>
+    <tr>
+      <th>Professionally</th>
+      <th>Passionately</th>
+      <th>Learning</th>
+      <th colspan=2>Planning to learn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</li>
+      </td>
+      <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 1em;" /> HTML</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 1em;" /> CSS</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 1em;" /> JavaScript</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 1em;" /> Kotlin</li>
+      </td>
+      <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="width: 1em;" /> Compose</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 1em;" /> Rust</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width: 1em;" /> Databases</li>
+      </td>
+      <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="width: 1em;" /> R</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 1em;" /> Haskell</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 1em;" /> TypeScript</li>
+      </td>
+      <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="width: 1em;" /> Vue.js</li>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Work
 I'm currently employed and working for Nokia as a DevOps Linux scripting engineer. I use Bash and Python 🐍
@@ -68,12 +92,12 @@ I'm open for collaboration and contribution on FOSS projects! 🌱 Please reach 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<li>🔭 I’m currently working on ...
+<li>🌱 I’m currently learning ...
+<li>👯 I’m looking to collaborate on ...
+<li>🤔 I’m looking for help with ...
+<li>💬 Ask me about ...
+<li>📫 How to reach me: ...
+<li>😄 Pronouns: ...
+<li>⚡ Fun fact: ...
 -->
