@@ -56,7 +56,7 @@ I'm queer and neurodivergent! 🌈
 </table>
 
 ### Work
-I'm currently employed and working for Nokia as a DevOps Linux scripting engineer. I use Bash and Python 🐍
+I'm currently employed for Nokia as a Bash/Python DevOps scripting engineer with a team working on CDB (cloud distributed builds). ☁
 
 ### Contributions
 I'm open for collaboration and contribution on FOSS projects! 🌱 Please reach out to me for help with your projects. I'd be very happy to help! 💖
