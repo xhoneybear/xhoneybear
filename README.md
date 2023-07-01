@@ -1,11 +1,12 @@
 # Hi! I'm Camille 🦊
-I'm an undergrad student at Wrocław University of Science and Technology. I study biotechnology and medical informatics. ⚕
 
-I'm a person of science, very interested in biological processes, genetic engineering and all things radioactive ☢
+⚕ An undergrad Medical Informatics student at Wrocław University of Science and Technology.
 
-My career focus goes towards medical and scientific IT applications, but I also have a liking for UI design, simulation and game development 💻
+☢ A person of science, very interested in various biological processes and all things radioactive.
 
-I'm queer and neurodivergent! 🌈
+💻 I am interested in medical/scientific IT. I also like UI design, simulation and game development.
+
+🌈 I'm queer and neurodivergent!
 
 ## What I work with:
 
@@ -13,7 +14,7 @@ I'm queer and neurodivergent! 🌈
 <table>
   <thead>
     <tr>
-      <th>Professionally</th>
+      <th colspan=2>Professionally</th>
       <th>Passionately</th>
       <th>Learning</th>
       <th colspan=2>Planning to learn</th>
@@ -25,7 +26,13 @@ I'm queer and neurodivergent! 🌈
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 1em;" /> C/C++</li>
+      </td>
+      <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width: 1em;" /> Jenkins</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 1em;" /> Docker</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="width: 1em;" /> Kubernetes</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 1em;" /> HTML</li>
@@ -36,19 +43,19 @@ I'm queer and neurodivergent! 🌈
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="width: 1em;" /> Compose</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 1em;" /> Rust</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width: 1em;" /> Databases</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="width: 1em;" /> Java</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="width: 1em;" /> R</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 1em;" /> Haskell</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 1em;" /> TypeScript</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 1em;" /> Rust</li>
       </td>
       <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 1em;" /> TypeScript</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="width: 1em;" /> Vue.js</li>
       </td>
     </tr>
@@ -56,33 +63,14 @@ I'm queer and neurodivergent! 🌈
 </table>
 
 ### Work
-I'm currently employed for Nokia as a Bash/Python DevOps scripting engineer with a team working on CDB (cloud distributed builds). ☁
+☁ I'm currently employed for Nokia as a DevOps scripting engineer, working on cloud-distributed builds.
+
+🧪 Role in the team - creating test scenarios to aid with troubleshooting and writing test frameworks for CI systems.
 
 ### Contributions
-I'm open for collaboration and contribution on FOSS projects! 🌱 Please reach out to me for help with your projects. I'd be very happy to help! 💖
+🌱 I'm open for collaboration and contribution to FOSS projects!
 
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fa6edb?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-ea79eb?style=flat-square&logo=gnubash&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-d783f8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-c28dff?style=flat-square&logo=git&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-ab96ff?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-919eff?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-73a6ff?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-51acff?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Scala" src="https://img.shields.io/badge/-Scala-19b2ff?style=flat-square&logo=scala&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-00b6ff?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00bbff?style=flat-square&logo=go&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-00beff?style=flat-square&logo=r&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-00c1f7?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-00c3ec?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Compose" src="https://img.shields.io/badge/-Compose-00c5e1?style=flat-square&logo=jetpackcompose&logoColor=white" />
-  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-00c6d6?style=flat-square&logo=haskell&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-00c7cb?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-28c7c0?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-48c7b6?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-5ec7ad?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+💖 If you think I could be of help, please reach out - I'd be very happy to aid you with your project!
 
 ![Language chart](https://github-readme-stats.vercel.app/api/top-langs/?username=xhoneybear&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xhoneybear&show_icons=true&count_private=true)   
