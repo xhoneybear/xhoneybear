@@ -10,27 +10,31 @@
 
 ## What I work with:
 
-### Languages & tools
 <table>
   <thead>
+    <tr>
+      <th rowspan=2>Tools</th>
+      <th colspan=4>Languages</th>
+    </tr>
     <tr>
       <th>Professionally</th>
       <th>Passionately</th>
       <th>Learning</th>
       <th>Planning to learn</th>
-    </tr>
+    <tr>
   </thead>
   <tbody>
-    <tr>
+      <td>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width: 1em;" /> Jenkins</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 1em;" /> Docker</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="width: 1em;" /> Kubernetes</li>
+      </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 1em;" /> C/C++</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width: 1em;" /> Jenkins</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 1em;" /> Docker</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="width: 1em;" /> Kubernetes</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 1em;" /> HTML</li>
@@ -38,18 +42,16 @@
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 1em;" /> JavaScript</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 1em;" /> TypeScript</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width: 1em;" /> TailwindCSS</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="width: 1em;" /> Gradle</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="width: 1em;" /> Java</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 1em;" /> Kotlin</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="width: 1em;" /> Compose</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="width: 1em;" /> R</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 1em;" /> Rust</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 1em;" /> Haskell</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</li>
