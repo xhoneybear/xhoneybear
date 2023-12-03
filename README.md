@@ -1,12 +1,12 @@
 # Hi! I'm Camille 🦊
 
-⚕ An undergrad Medical Informatics student at Wrocław University of Science and Technology.
+⚕ WUST Medical Informatics student
 
-☢ A person of science, very interested in various biological processes and all things radioactive.
+☢ Fond of radiology, genetics & endocrinology
 
-💻 I am an aspiring full-stack dev, also interested in simulation and game development.
+💻 Interested in simulation and game development
 
-🌈 I'm queer and neurodivergent!
+🌈 Queer and neurodivergent!
 
 ## What I work with:
 
@@ -63,9 +63,9 @@
 </table>
 
 ### Work
-☁ I'm currently employed for Nokia as a DevOps scripting engineer, working on cloud-distributed builds.
+☁ Currently employed by Nokia as a DevOps scripting engineer, working on cloud-distributed builds.
 
-🧪 Role in the team - creating test scenarios to aid with troubleshooting and writing test frameworks for CI systems.
+🧪 Role in the team - load balancer development & creation of tests for CI systems.
 
 ### Contributions
 🌱 I'm open for collaboration and contribution to FOSS projects!
@@ -73,7 +73,6 @@
 💖 If you think I could be of help, please reach out - I'd be very happy to aid you with your project!
 
 ![Language chart](https://github-readme-stats.vercel.app/api/top-langs/?username=xhoneybear&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xhoneybear&show_icons=true&count_private=true)   
 
 <!--
 **xhoneybear/xhoneybear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
