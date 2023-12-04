@@ -73,8 +73,12 @@
 
 💖 If you think I could be of help, please reach out - I'd be very happy to aid you with your project!
 
-<a><img height=200 src="https://github-readme-stats.vercel.app/api?username=xhoneybear&show_icons=true&count_private=true&rank_icon=github&custom_title=My%20Github%20Stats&theme=transparent&hide_border=true" /></a>
-<a><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhoneybear&layout=compact&langs_count=8&custom_title=Language%20Chart&theme=transparent&hide_border=true" /></a>
+<a href="https://github-readme-stats.vercel.app/">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=xhoneybear&show_icons=true&count_private=true&rank_icon=github&custom_title=My%20Github%20Stats&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhoneybear&layout=compact&langs_count=8&custom_title=Language%20Chart&theme=transparent&hide_border=true" />
+</a>
 
 <!--
 **xhoneybear/xhoneybear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
