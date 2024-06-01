@@ -1,10 +1,10 @@
 # Hi! I'm Camille 🦊
 
-⚕ WUST Medical Informatics student
+🏥 WUST Medical Informatics student
 
-☢ Fond of radiology, genetics & endocrinology
+💻 Prospective freelance developer
 
-💻 Interested in simulation and game development
+🌍 Travel, medicine & gaming enthusiast
 
 🌈 Queer and neurodivergent!
 
@@ -17,8 +17,7 @@
       <th colspan=4>Languages</th>
     </tr>
     <tr>
-      <th>Professionally</th>
-      <th>Passionately</th>
+      <th colspan=2>Using</th>
       <th>Learning</th>
       <th>Planning to learn</th>
     <tr>
@@ -27,15 +26,16 @@
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" style="width: 1em;" /> Gradle</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width: 1em;" /> Jenkins</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 1em;" /> Docker</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="width: 1em;" /> Kubernetes</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 1em;" /> C++</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 1em;" /> Java</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 1em;" /> C</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="width: 1em;" /> SQL</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 1em;" /> HTML</li>
@@ -45,18 +45,17 @@
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</li>
       </td>
       <td>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="width: 1em;" /> Gradle</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="width: 1em;" /> Java</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 1em;" /> Kotlin</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 1em;" /> C++</li>
       </td>
       <td>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="width: 1em;" /> R</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width: 1em;" /> Rust</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="width: 1em;" /> Rust</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 1em;" /> Haskell</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="width: 1em;" /> Vue.js</li>
       </td>
     </tr>
@@ -64,9 +63,7 @@
 </table>
 
 ### Work
-☁ Currently employed by Nokia as a DevOps scripting engineer, working on cloud-distributed builds.
-
-🧪 Role in the team - load balancer development & creation of tests for CI systems.
+🔓 Currently a free agent! Would be happy to join a startup or a collective.
 
 ### Contributions
 🌱 I'm open for collaboration and contribution to FOSS projects!
