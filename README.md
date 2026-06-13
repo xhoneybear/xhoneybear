@@ -1,68 +1,72 @@
 # Hi! I'm Camille 🦊
 
-💻 Freelance developer
+💻 Developer of everything and beyond
 
 🏥 WUST Medical Informatics student
 
 🎸 Bedroom artist (guitar, bass & vocals)
 
-🧪 Self-proclaimed scientist
+🧪 Free-time scientist
 
-🌈 Member of the big queer
+<h3><sup>Founder of</sup> <a href=https://github.com/meetlyapp><img src="https://raw.githubusercontent.com/meetlyapp/.github/refs/heads/main/meetly.svg" style="height: 24px; vertical-align: middle" /></a><sup>™</sup></h3>
 
+<!-- <h3><sup>Creator of Android IDE VS Code plugin</sup> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="width: 1.2em;" /></h3> -->
+
+##
+
+### What I use
 <table>
   <thead>
     <tr>
-      <th rowspan=2>Tools</th>
-      <th colspan=3>Languages</th>
-      <th rowspan=2>Frameworks</th>
+      <th colspan=2>Tools</th>
+      <th colspan=2>Languages</th>
+      <th>Frameworks</th>
     </tr>
-    <tr>
-      <th colspan=2>Using</th>
-      <th>Learning</th>
-    <tr>
   </thead>
   <tbody>
-      <td>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" style="width: 1em;" /> Gradle</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width: 1em;" /> Jenkins</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 1em;" /> Docker</li>
-      </td>
-      <td>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 1em;" /> Java</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 1em;" /> Kotlin</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala</li>
-      </td>
-      <td>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 1em;" /> C</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 1em;" /> HTML</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 1em;" /> CSS</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 1em;" /> JS/TS</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="width: 1em;" /> SQL</li>
-      </td>
-      <td>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 1em;" /> C++</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 1em;" /> Go</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="width: 1em;" /> Rust</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="width: 1em;" /> Haskell</li>
-      </td>
-      <td>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="width: 1em;" /> Firebase</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" style="width: 1em;" /> Compose</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg" style="width: 1em;" /> PostCSS</li>
-      </td>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 1em;" /> Linux</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 1em;" /> Git</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 1em;" /> Bash</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 1em;" /> C</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" style="width: 1em;" /> Compose</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 1em;" /> Github</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="width: 1em;" /> Gitlab CI</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 1em;" /> Python</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width: 1em;" /> Dart</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 1em;" /> Flutter</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" style="width: 1em;" /> Gradle</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" style="width: 1em;" /> CMake</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 1em;" /> Java</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="width: 1em;" /> MATLAB</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="width: 1em;" /> Vue/Nuxt</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width: 1em;" /> Docker</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="width: 1em;" /> Firebase</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 1em;" /> Kotlin</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" style="width: 1em;" /> SQL</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width: 1em;" /> Svelte</td>
+    </tr>
+    <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width: 1em;" /> VSCode</td>
+    <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" style="width: 1em;" /> Antigravity</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="width: 1em;" /> Scala</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Openscad.svg" style="width: 1em;" /> SCAD</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postcss/postcss-original.svg" style="width: 1em;" /> PostCSS</td>
     </tr>
   </tbody>
 </table>
 
-#### ☁ Free agent, pls hire
+##
+
+☁️🙄☁️
+
+*head always in the clouds*
 
 <h2><sup>One day</sup> <a href=https://github.com/meetlyapp><img src="https://raw.githubusercontent.com/meetlyapp/.github/refs/heads/main/meetly.svg" style="height: 28px; vertical-align: middle" /></a> <sup>will be big 🫂</sup></h2>
 
